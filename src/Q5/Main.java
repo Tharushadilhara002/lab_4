@@ -25,5 +25,7 @@ public class Main {
         System.out.println("Student Name     : " + student.getStudentName());
         System.out.println("Degree           : " + student.getDegreeName());
         System.out.println("Course Following : " + student.getCourseFollowing());
+
+        //testing error fixed
     }
 }
