@@ -27,5 +27,6 @@ public class Main {
         System.out.println("Course Following : " + student.getCourseFollowing());
 
         //testing error fixed
+        //testing 2
     }
 }
